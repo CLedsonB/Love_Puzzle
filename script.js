@@ -1,4 +1,4 @@
-var images = ['https://images.srkh.in/wp-content/uploads/2023/02/Happy-Propose-Day-Images-333-I-LOVE-YOU.jpg'];
+var images = ['https://pm1.aminoapps.com/6703/6eb2d6feb2e955f94c433879ffb186d54364c60b_00.jpg'];
 
 var currentIndex = 0;
 var totalClicks = 0;
